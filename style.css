@@ -1,0 +1,11 @@
+/* External CSS Stylesheet for Recipes Page */
+
+.background {
+    background-color: rgb(0, 255, 55);
+}
+
+.heading {
+    text-align: center;
+    font-weight: bold;
+}
+
